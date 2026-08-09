@@ -1,0 +1,11 @@
+[tool.pytest.ini_options]
+addopts = "--strict-markers --cov=app --cov-report=term-missing"
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.coverage.run]
+branch = true
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
