@@ -1,0 +1,11 @@
+node_modules
+.next
+.vinext
+coverage
+.git
+.wrangler
+backend/.venv
+backend/.pytest_cache
+backend/htmlcov
+outputs
+work
