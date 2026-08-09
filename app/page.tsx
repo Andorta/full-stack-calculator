@@ -11,7 +11,7 @@ export default function Home() {
     <main className="page-shell">
       <section className="intro" aria-labelledby="page-title">
         <p className="eyebrow">FULL-STACK CALCULATOR</p>
-        <h1 id="page-title">"Making Math simple"</h1>
+        <h1 id="page-title">Making Math simple</h1>
         <p className="intro-copy">
           Choose an operation, enter your values, and let the Python service do
           the calculation.
